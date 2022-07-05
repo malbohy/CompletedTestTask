@@ -1,0 +1,6 @@
+framework module Pods_Cryptocurrency_CandlesTests {
+  umbrella header "Pods-Cryptocurrency CandlesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
